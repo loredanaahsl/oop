@@ -18,5 +18,5 @@ This project serves as the first laboratory work for the Object-Oriented Program
 3. Run the main function in the ```Main.kt``` file.
 
 ## Contributors
-* **Mihaela Catan:** Software Engineering Student, FAF-231, Technical University of Moldova
+* **Condrea Loredana:** Software Engineering Student, FAF-231, Technical University of Moldova
 * **Dominic Flocea:** University Lecturer, Technical University of Moldova
